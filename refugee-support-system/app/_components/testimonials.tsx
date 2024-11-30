@@ -21,7 +21,7 @@ export function Testimonials() {
     },
     {
       quote:
-        "This platform has transformed how we deliver aid to refugees. The transparency and efficiency of the blockchain system is exactly what we needed.",
+        "This platform has transformed how we deliver aid to refugees. The transparency and efficieny of the blockchain system is exactly what we needed.",
       author: "Emma Rodriguez",
       role: "Aid Worker",
       image: "https://i.pravatar.cc/150?img=3",
